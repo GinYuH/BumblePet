@@ -1,0 +1,3 @@
+displayName = [1.4.4] Bumblebirb Pet
+author = YuH
+version = 3.0.1

@@ -1,0 +1,20 @@
+[h1] Calamity Bumblebirb Pet [/h1]
+Adds a pet Bumblebirb that drops from The Calamity Mod's Dragonfolly with a 33% drop rate
+The mod does not require Calamity.
+
+Birb pet sprites by Krysmun
+Item sprites by Blockaroz
+
+[olist]
+[*] 3.0.1 Localization fixes (thanks scalie)
+[*] 3.0 Ported to 1.4.4, Harpies now drop the feather without Calamity on, boosted Dragonfolly's drop rate from 10% to 33%
+[*] 2.0.3 July tml update
+[*] 2.0.2 Better icon
+[*] 2.0.1 Updated description
+[*] 2.0 Ported to 1.4
+[*] 1.3.1: Made rarities accurate and changed sell prices
+[*] 1.3: Updated to new TML and renamed the unholy one's item
+[*] 1.2.1: Nerfed recipe of the unholy one
+[*] 1.2: Resprited the Fluffy Feather and capitalized author name... perhaps something else...?
+[*] 1.1: Added a second variant that can't be equipped, but can be used in conjunction with other pets
+[/olist]

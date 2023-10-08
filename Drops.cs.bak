@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using Microsoft.Xna.Framework;
+using Terraria;
+using Terraria.ID;
+using Terraria.ModLoader;
+using BumblePet;
+using BumblePet.Pet;
+
+public class Drops : GlobalNPC
+{
+	public override void NPCLoot(NPC npc)
+	{
+		Mod mod = ModLoader.GetMod("CalamityMod");
+		if (mod == null)
+		{
+			return;
+		}
+		
+		if (npc.type == mod.NPCType("Bumblefuck") && Utils.NextFloat(Main.rand) < 0.1015f)
+		{
+			Item.NewItem(npc.getRect(), ModContent.ItemType<FluffyFeather>());
+		}
+		
+	}
+}
