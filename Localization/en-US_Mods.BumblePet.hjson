@@ -1,0 +1,38 @@
+Items: {
+	FluffyFeather: {
+		DisplayName: Fluffy Feather
+		Tooltip: ""
+	}
+
+	FluffyFeatherS: {
+		DisplayName: Fluffy Feather S
+		Tooltip: ""
+	}
+
+	FluffyFur: {
+		DisplayName: Fluffy Fur
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	MiniBumble.DisplayName: Mini Bumble
+	MiniDoge.DisplayName: Mini Doge
+}
+
+Buffs: {
+	MiniBumbleBuff: {
+		DisplayName: Mini Bumble Buff
+		Description: Mods.BumblePet.Buffs.MiniBumbleBuff.Description
+	}
+
+	MiniBumbleBuff2: {
+		DisplayName: Mini Bumble Buff2
+		Description: Mods.BumblePet.Buffs.MiniBumbleBuff2.Description
+	}
+
+	MiniDogeBuff: {
+		DisplayName: Mini Doge Buff
+		Description: Mods.BumblePet.Buffs.MiniDogeBuff.Description
+	}
+}
