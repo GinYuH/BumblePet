@@ -8,6 +8,7 @@ Item sprites by Blockaroz
 Discord for support: https://discord.gg/rtq3jRDsrA
 
 [olist]
+[*] 3.0.2 Fixes accounting for Brainstorm update
 [*] 3.0.1 Localization fixes (thanks scalie)
 [*] 3.0 Ported to 1.4.4, Harpies now drop the feather without Calamity on, boosted Dragonfolly's drop rate from 10% to 33%
 [*] 2.0.3 July tml update

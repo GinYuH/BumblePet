@@ -22,7 +22,7 @@ public class Drops : GlobalNPC
 		}
 			return;
 		}
-  		if (npc.type == mod.Find<ModNPC>("Bumblefuck").Type)
+  		if (npc.type == mod.Find<ModNPC>("Dragonfolly").Type)
 		{
 			npcLoot.Add(ItemDropRule.Common(ModContent.ItemType<FluffyFeather>(), 3));
 		}
